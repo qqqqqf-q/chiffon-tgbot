@@ -1,0 +1,6 @@
+﻿log_level: INFO
+log_file: logs/tgbot.log
+rotate:
+  max_bytes: 5242880
+  backup_count: 3
+formatter: '%(asctime)s - %(levelname)s - %(name)s - %(message)s'

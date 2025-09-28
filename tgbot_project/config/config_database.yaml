@@ -1,0 +1,4 @@
+﻿database:
+  type: sqlite
+  path: ../data/runtime.db
+  echo: false
